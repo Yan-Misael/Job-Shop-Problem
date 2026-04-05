@@ -1,0 +1,7 @@
+Secuencia de Operaciones,Valor en el archivo,Máquina asignada,Duración de la tarea
+Operación 1,2 1,Máquina 2,1 unidad de tiempo
+Operación 2,0 3,Máquina 0,3 unidades de tiempo
+Operación 3,1 6,Máquina 1,6 unidades de tiempo
+Operación 4,3 7,Máquina 3,7 unidades de tiempo
+Operación 5,5 3,Máquina 5,3 unidades de tiempo
+Operación 6,4 6,Máquina 4,6 unidades de tiempo
